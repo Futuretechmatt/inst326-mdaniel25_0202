@@ -2,6 +2,6 @@ Week 1
 
 I asked ChatGPT how to sort data and help me better understand how to write new
 programming languages I was learning. I also used AI to help me understand and refresh
-my knowlege on certain python concepts such as varaibles, datatypes, and Arithmetic & Expressions.
+my knowledge on certain python concepts such as varaibles, datatypes, and Arithmetic & Expressions.
 Finally, I also used AI to help teach me and understand how to perform SQL coding as I
 am a beginner.
