@@ -10,3 +10,13 @@ programming languages I was learning. I also used AI to help me understand and r
 my knowledge on certain python concepts such as varaibles, datatypes, and Arithmetic & Expressions.
 Finally, I also used AI to help teach me and understand how to perform SQL coding as I
 am a beginner.
+
+Week 2
+
+This week, I used ChatGPT to help me learn and relearn some of the programming basics of Python, 
+such as utilizing different string methods, boolean expressions, and variable types. The AI tool 
+provided me with various examples of the variable types and expressions in action, such as 
+stripping white spaces, concatenating string names, using the find function to parse lines of code 
+without a list, and implementing them properly. I also used it to help me troubleshoot some code I 
+have been practicing with, both in Python and SQLite, to help me enhance my understanding of any 
+logical or syntax errors I have made.
