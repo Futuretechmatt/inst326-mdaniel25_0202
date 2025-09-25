@@ -26,6 +26,9 @@ Week 3
 This week, I used ChatGPT to help me relearn some of the programming basics of Python, such as 
 conditionals, loops, lists, and the implementation of logical operators. The system gave me some 
 examples and understanding of how each of these coding elements works separately and as a whole 
-in the program, which guided me in enhancing my coding skills and in the programming exercises and 
-assignments. I also used AI to give me a conceptual understanding of functions and modules.  
+in the program, which guided me in enhancing my coding skills, and in the programming exercises, and 
+assignments. I also used AI to give me a conceptual understanding of functions and modules. In 
+In addition to the group project, I used AI to help organize my ideas on the features, scope, and 
+must-have and nice-to-have features on our project, and translate them into the project requirements 
+that we used to draft and structure our project charter.
 
