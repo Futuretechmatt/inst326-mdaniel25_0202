@@ -20,3 +20,12 @@ stripping white spaces, concatenating string names, using the find function to p
 without a list, and implementing them properly. I also used it to help me troubleshoot some code I 
 have been practicing with, both in Python and SQLite, to help me enhance my understanding of any 
 logical or syntax errors I have made.
+
+
+Week 3
+This week, I used ChatGPT to help me relearn some of the programming basics of Python, such as 
+conditionals, loops, lists, and the implementation of logical operators. The system gave me some 
+examples and understanding of how each of these coding elements works separately and as a whole 
+in the program, which guided me in enhancing my coding skills and in the programming exercises and 
+assignments. I also used AI to give me a conceptual understanding of functions and modules.  
+
