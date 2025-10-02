@@ -32,3 +32,15 @@ In addition to the group project, I used AI to help organize my ideas on the fea
 must-have and nice-to-have features on our project, and translate them into the project requirements 
 that we used to draft and structure our project charter.
 
+Week 4
+In this week's module, I used ChatGPT to help me solidify my understanding of last week's
+topics of building, creating, and defining functions, and how to implement them with
+variables and string basics. I am a little rusty with functions, so I used this AI tool to 
+help me debug and structure my code properly to help guide me and enhance my understanding
+of its functionality and purpose. Additionally, I used AI this week to help teach me some 
+of the basics of classes and how the concept can be applied to real-life everyday objects
+, and contain both attributes and methods. Visualizing it this way was a key step in 
+deepening my understanding of this topic. Finally, another way I used AI this week
+was to demonstrate examples and debug my SQL code on string and numeric 
+functions. Throughout the week, I will use this tool to continue to help me plan and
+structure parts of the group project in preparation for its next phase. 
