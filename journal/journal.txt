@@ -44,3 +44,15 @@ deepening my understanding of this topic. Finally, another way I used AI this we
 was to demonstrate examples and debug my SQL code on string and numeric 
 functions. Throughout the week, I will use this tool to continue to help me plan and
 structure parts of the group project in preparation for its next phase. 
+
+Week 5
+Throughout this week, I used ChatGPT to help enhance and grasp my understanding of classes & 
+objects from last week's lecture. I used the AI tool to explain and guide me on how to define
+certain classes, initialize attributes using the __init__ function, and comprehend the use of the
+self statements. Additionally, I also used the technology to help me debug and explain to me step by 
+step how to solve some of the exercises from week 4 after I made my first attempt. I made some
+logical or syntax errors in my code that I could not identify, so ChatGPT was able to help me 
+narrow down my search. This AI was even beneficial for this week in solidifying my understanding
+of the lecture material this week, with encapsulation and data hiding, and what impact it has on
+our team project. It gave me some excellent examples of the encapsulation process, how it can 
+be integrated into our project, and what effect it would have on its functionality and structure.
