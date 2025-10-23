@@ -56,3 +56,16 @@ narrow down my search. This AI was even beneficial for this week in solidifying 
 of the lecture material this week, with encapsulation and data hiding, and what impact it has on
 our team project. It gave me some excellent examples of the encapsulation process, how it can 
 be integrated into our project, and what effect it would have on its functionality and structure.
+
+Week 6
+This weeek I used AI technology to break down each of the 15 functions into separate folders that fulfill a specific feature of our 
+program. Our source code file is divided into five folders: utilities, data collection, content analysis, interface, and reporting 
+containing different functions that make up our information retrieval and analysis tool of stock data. From there my group and I updated 
+the documentation for our function_references and usage_examples describing the purpose, parameters, and process of the functions and gave 
+some examples of how it is used. AI also helped organize and update our README file in providing an overview of our function library and 
+other key elements describing our project thoroughly. We updated our README file with our input on function specfications and other 
+details that would match up with the project requirements. I also used the technology in creating a function structure that fetches stock 
+data from APIs such as Alpha Vantage / IEX / Yahoo API. Some of these APIs will contain the main bulk of our information for our stock 
+program. I structured the code and created a model/layout to help us visualize how our program will fetch the stock data and be outputted. 
+Additionally the tool was very helpful in designing and refining the build_user_query(params: dict) function by suggesting structure, 
+input validation, and documentation improvements.
