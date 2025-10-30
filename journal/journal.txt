@@ -69,3 +69,12 @@ data from APIs such as Alpha Vantage / IEX / Yahoo API. Some of these APIs will 
 program. I structured the code and created a model/layout to help us visualize how our program will fetch the stock data and be outputted. 
 Additionally the tool was very helpful in designing and refining the build_user_query(params: dict) function by suggesting structure, 
 input validation, and documentation improvements.
+
+Week 7
+In week 7 I used AI technology to improve my understanding of methods and class designs structure. I asked the system to 
+provide me examples of instance methods, class methods, and static methods applied to classes to enhance my understanding
+of the code structure and its functionality when I run the program. The examples AI provided me helped guide me and complete
+the week 6 exercises. I also used it to debugg and explain errors in my code that I couldn't find while completeting the 
+exercises. This week I'll to implement the notes and slides from my lectures and AI to help me strcture and create the
+class for my group project on the information retrival and analysis finaincal tool. It would help enhacnce our work effiency
+and understanding of project's goal and organization structure.
