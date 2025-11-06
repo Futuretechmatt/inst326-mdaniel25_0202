@@ -78,3 +78,23 @@ the week 6 exercises. I also used it to debugg and explain errors in my code tha
 exercises. This week I'll to implement the notes and slides from my lectures and AI to help me strcture and create the
 class for my group project on the information retrival and analysis finaincal tool. It would help enhacnce our work effiency
 and understanding of project's goal and organization structure.
+
+Week 8 
+In this week I used AI technology like ChatGPT to enhance my understanding of Error handling and
+Testing methods in using the try/except, else, and finally handling. I used this tool to 
+troubleshoot, debug, and explain to me some issues that I had some parts of the exercises and use
+it develop some examples similar to the exercise problems to help explain to me and understand
+the process and function of each code. I also used AI to help finalize some parts of part 2 of my
+project to help me generate class structure and boilerplate code, create docstring templates, 
+generate validation logic, and debug implementation issues. With the assistance of AI guidance, 
+several core classes were systematically developed to transform the project’s function library 
+into a modular, object-oriented structure. The StockDataManager class is responsible for retrieving 
+and validating stock data, integrating the fetch_stock_data(), fetch_news(), and validate_ticker() 
+functions to ensure reliable financial information access. The PortfolioManager class manages user 
+investment portfolios by utilizing the parse_portfolio_csv() function and establishing a foundation 
+for advanced features such as compute_portfolio_value(). The DataProcessor class focuses on data 
+preprocessing and standardization through the normalize_date(), clean_text(), and format_currency() 
+functions, ensuring consistency across all datasets. Finally, the UserQueryBuilder class interprets 
+user or interface parameters into structured queries using the build_user_query() function, 
+effectively bridging user inputs with backend data operations.
+
