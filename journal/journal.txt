@@ -98,3 +98,22 @@ functions, ensuring consistency across all datasets. Finally, the UserQueryBuild
 user or interface parameters into structured queries using the build_user_query() function, 
 effectively bridging user inputs with backend data operations.
 
+Week 9 
+In week 9, I used AI tools to refine and finalize the design and structure of the class 
+architecture for my information retrieval and analysis tool. Using AI-assisted tools, existing 
+classes were reviewed for compliance with object-oriented programming principles, including 
+encapsulation, validation, and polymorphism. The AI also supported refactoring for clarity, 
+expanding docstrings, and aligning new classes, streamlining development, improving maintainability,
+and ensuring that each class integrated smoothly with the overall system. I also used AI 
+technology to better understand Inheritance & Polymorphism principles from Week 8. AI taught me 
+about subclassing, method overriding, `super()`, polymorphism via common method names, and 
+composition vs. inheritance decisions in a small codebase. I learned where and how to implement 
+these new skills, and I have AI tools that explain to me how they function within my code to 
+reinforce inheritance and polymorphism rules. I also asked it to create some examples that utilize 
+some of the inheritance and polymorphism techniques to enhance my understanding of the topic and 
+help me complete the exercises. As I completed the exercises, I used the examples and AI tools to 
+debug and troubleshoot my code when I ran into any errors. Throughout the week, I will continue to 
+use AI to further structure and implement inheritance, Abstract Base classes, and polymorphism 
+techniques in completing part 3 of our group project.
+
+
