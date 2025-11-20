@@ -116,4 +116,15 @@ debug and troubleshoot my code when I ran into any errors. Throughout the week, 
 use AI to further structure and implement inheritance, Abstract Base classes, and polymorphism 
 techniques in completing part 3 of our group project.
 
-
+Week 10 
+This week, I used AI tools like ChatGPT, a learning and design assistant, while implementing inheritance and abstract base classes in my 
+Stock Information Retrieval and Analysis Tool project. I asked AI to help me understand how to organize my existing classes 
+into a proper inheritance hierarchy by identifying a suitable base class and designing specialized subclasses such as stock, news, and 
+portfolio managers. I also used AI to confirm the correct usage of method overriding and the super() function to ensure my child classes 
+properly extended parent behavior without breaking existing functionality. Additionally, AI helped me learn how to use Python’s abc 
+module to create an abstract base class with required methods, which I then implemented in my concrete subclasses. Rather than copying 
+code directly, I used AI as a guide to understand best practices and applied those concepts manually in my project, which helped me 
+improve the structure, reusability, and scalability of my code. I also used AI to help solidify my understanding of abstract base 
+classes, including how to use abc.ABC and @abstractmethod define abstract properties, register virtual subclasses, and create 
+interface-like designs using ABCs and optionally typing.Protocol without advanced generic typing. Additionally, it broke down complex 
+exercise questions and helped me debug and troubleshoot my code as I worked through each problem.
