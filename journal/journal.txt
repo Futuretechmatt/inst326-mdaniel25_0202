@@ -128,3 +128,18 @@ improve the structure, reusability, and scalability of my code. I also used AI t
 classes, including how to use abc.ABC and @abstractmethod define abstract properties, register virtual subclasses, and create 
 interface-like designs using ABCs and optionally typing.Protocol without advanced generic typing. Additionally, it broke down complex 
 exercise questions and helped me debug and troubleshoot my code as I worked through each problem.
+
+Week 12
+Last week, I used AI technnology tools like ChatGPT during my development of Project 3 to help me design, refine, and document 
+the advanced object-oriented programming features added to my Stock Information Retrieval and Analysis System. The AI did not entirely 
+write the project for me, but served as a guide and collaborator for planning and improving my implementation. I used AI as a support tool 
+to help design, refine, and document the advanced object-oriented programming features in my Stock Information Retrieval and Analysis 
+System. AI did not write the project for me, but it helped me understand the requirements for inheritance hierarchies, abstract base 
+classes, polymorphism, and the distinctions between “is-a” and “has-a” relationships. It assisted in improving my class designs by 
+suggesting how to structure my BaseAnalyzer and its subclasses, the processor and query builder hierarchies, and by confirming when 
+composition was more appropriate than inheritance—especially in my PortfolioManager. I also used AI to refine my polymorphism 
+demonstrations so they clearly showed overridden methods, dynamic behavior across object types, and base-class-agnostic functions. 
+In addition, AI helped me reorganize and polish my README by modeling it after the Garden System example, offering feedback on hierarchy 
+diagrams, explanations, and usage examples. Finally, AI supported me in debugging questions involving super(), abstract base class 
+structure, and best OOP practices. Overall, AI served as a learning assistant that improved my architectural decisions, documentation 
+clarity, and understanding of advanced OOP concepts while I completed all implementation work myself.
