@@ -143,3 +143,22 @@ In addition, AI helped me reorganize and polish my README by modeling it after t
 diagrams, explanations, and usage examples. Finally, AI supported me in debugging questions involving super(), abstract base class 
 structure, and best OOP practices. Overall, AI served as a learning assistant that improved my architectural decisions, documentation 
 clarity, and understanding of advanced OOP concepts while I completed all implementation work myself.
+
+
+Week 13
+This week, I used AI extensively to develop and refine my Project 4 application, especially
+as I worked to integrate multiple components such as data managers, analyzers, and
+a multi-page Tkinter interface into a complete, functioning system. AI helped enhance and
+guide my understanding of how the project requirements can be applied to my design and
+ensured that features like data persistence, CSV import/export, and portfolio analysis
+were implemented correctly. Throughout the week, ChatGPT helped me debug complex issues
+such as fixing tooltip behavior in Matplotlib when displaying the graphical output of my
+stock data, correcting anomaly plotting errors, embedding charts without duplicating
+toolbars, and improving validation, error handling, and UI layout. AI also guided me in
+adding enhancements like hover tooltips, zoom functionality, dynamic instructions for each
+screen page, and formatting improvements that made the application more user-friendly.
+In the process, I gained a deeper understanding of event handling, file I/O best practices
+modular architecture, and how to build a polished, efficient, and functioning interactive 
+Python application. Overall, AI served as both a debugging assistant and a learning tool,
+helping me strengthen my technical skills while ensuring my stock information retrieval
+The Analysis tool met all the functional, conceptual, and design requirements.
